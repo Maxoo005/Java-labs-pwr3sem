@@ -1,0 +1,6 @@
+org\example\EnvironmentImpl.class
+org\example\EnvironmentState.class
+org\example\EnvironmentGui$RiverPanel.class
+org\example\EnvironmentGui.class
+org\example\RiverInfo.class
+org\example\EnvironmentApp.class

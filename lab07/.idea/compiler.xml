@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lab06-tailor" />
+        <module name="lab06-retension-basin" />
+        <module name="lab06-sea-section" />
+        <module name="lab06-common" />
+        <module name="lab06-environment" />
+        <module name="lab06-control-center" />
+        <module name="lab06-river-section" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common" target="22" />
+      <module name="lab06-basin" target="22" />
+      <module name="lab06-river" target="22" />
+      <module name="lab06-runner" target="22" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

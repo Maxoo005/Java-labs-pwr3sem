@@ -1,0 +1,4 @@
+org\example\RiverSectionApp.class
+org\example\RiverSectionGui.class
+org\example\RiverSectionImpl.class
+org\example\RiverState.class

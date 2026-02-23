@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rzeka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rzeka_jar</output-path>
+    <root id="archive" name="Rzeka.jar">
+      <element id="module-output" name="lab06-river-section" />
+      <element id="module-output" name="lab06-common" />
+      <element id="module-output" name="lab06-control-center" />
+      <element id="module-output" name="lab06-environment" />
+      <element id="module-output" name="lab06-sea-section" />
+      <element id="module-output" name="lab06-retension-basin" />
+    </root>
+  </artifact>
+</component>

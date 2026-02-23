@@ -1,0 +1,15 @@
+
+	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8í•÷Å2J$dfb9f36e-a403-4b5e-af37-700012612e39
+
+java:S6201'"VReplace this instanceof check and cast with 'instanceof IControlCenter icontrolcenter'(Íƒğïùÿÿÿÿ8…³˜§È2J$27e12c61-c27c-4c2a-aac4-54c114b4303c
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ª±­²ÿÿÿÿÿ8Œ•÷Å2J$2ebe50b5-56b4-4184-8084-ffece0a30527
+m	java:S106*"+Replace this use of System.out by a logger.(¤êŞÖ8Œ•÷Å2J$fe303f53-5639-4028-bd7e-cbcdcea5f11e
+ƒ	java:S125A"<This block of commented-out lines of code should be removed.(Òë‚Ëüÿÿÿÿ8Ş¥²«È2J$23c30ba8-92a3-4290-8317-39409b0bd46a
+€
+java:S1128"8Remove this unused import 'java.rmi.RMISecurityManager'.(œïµûÿÿÿÿ8â¥²«È2J$2251f44b-267f-45c1-a7a8-a061d1e7cda5
+}
+java:S1128"5Remove this unused import 'java.security.Permission'.(Œ•Ğ¶úÿÿÿÿ8õŸ£ªÈ2J$22ed0a17-01d8-41d0-a61e-8b74c968c01e
+w
+java:S1128"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã8õŸ£ªÈ2J$d1923c46-7f35-4fbc-9d47-29a3a7444048
+|
+java:S1128"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ8öŸ£ªÈ2J$e1e051f4-df98-4c38-a143-29d6bde14a75

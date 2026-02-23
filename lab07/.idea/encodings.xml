@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-basin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-basin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-control-center/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-control-center/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-controlcenter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-controlcenter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-environment/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-environment/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-retension-basin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-retension-basin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-river-section/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-river-section/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-river/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-river/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-runner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-runner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-sea-section/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-sea-section/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-tailor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lab06-tailor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

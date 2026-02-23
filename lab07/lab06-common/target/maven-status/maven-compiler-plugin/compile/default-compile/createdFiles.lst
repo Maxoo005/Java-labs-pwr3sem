@@ -1,0 +1,6 @@
+org\example\NetworkClient.class
+org\example\Protocol.class
+org\example\ProtocolConstants.class
+org\example\MessageHandler.class
+org\example\ConfigHelper.class
+org\example\SimpleServer.class
